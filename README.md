@@ -1,1 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcarrio&hide=sqlpl,css&langs_count=8&layout=compact&theme=tokyonight)](https://tom.carrio.dev)
+<html>
+  <body>
+    <div>
+      <pre>Hey there, I'm a software engineer at Dynatrace 👨‍💻</pre>
+    </div>
+  </body>
+</html>
