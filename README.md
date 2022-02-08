@@ -1,7 +1,7 @@
 <html>
   <body>
     <div>
-      <pre>Hey there 👋 I'm a software engineer at Skillshare and emphatic technologist 👨‍</pre>
+      <pre>Hey there 👋 I'm an emphatic technologist and software engineer at Skillshare 👨‍</pre>
     </div>
   </body>
 </html>
