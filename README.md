@@ -1,7 +1,7 @@
 <html>
   <body>
     <div>
-      <pre>こんにちは！　👋 I'm an emphatic technologist and software engineer at Skillshare 👨‍</pre>
+      <pre>こんにちは！　👋 I'm an emphatic technologist, staff engineer, and engineering manager 👨‍</pre>
     </div>
   </body>
 </html>
